@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rohit Gupta</h1>
 <h3 align="center">A Passionate Computer Science Engineer</h3>
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohithai&label=Profile%20views&color=0e75b6&style=flat" alt="rohithai" /> </p>
 
